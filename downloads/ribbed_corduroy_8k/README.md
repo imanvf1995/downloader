@@ -8,7 +8,7 @@
 |----------|-------|
 | **File** | `ribbed_corduroy_8k.zip` |
 | **URL** | https://polyhaven.com/__download__/20260510100748/ribbed_corduroy_8k.zip |
-| **Date** | 2026-05-10 10:38:42 UTC |
+| **Date** | 2026-05-10 10:52:16 UTC |
 | **Status** | **FAILED** |
 
 ---
